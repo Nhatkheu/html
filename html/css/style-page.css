@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+	background-color: rgba(45, 45, 45, 0.9)
+}
+
+#content{
+	background-color: white;
+}
+
+.pic{
+	max-width: 100%;
+	
+}
+
+#content p{
+	line-height: 2
+}
